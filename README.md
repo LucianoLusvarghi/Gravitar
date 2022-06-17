@@ -6,4 +6,6 @@ Developed using the graphic API of ESAT, additionally the project consists of cr
   
   
   
-The use of a text font is exclusive to the menus for user management, the rest of the texts have been created with the same principle of only drawing lines
+The use of a text font is exclusive to the menus for user management, the rest of the texts have been created with the same principle of only drawing lines.
+
+Programming language: C
